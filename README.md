@@ -20,3 +20,5 @@
 2. 옵션2
 
 > 인용문 작성
+
+![이미지 이름](https://img.freepik.com/free-photo/man-stands-front-giant-angel-s-wings_1340-43229.jpg?w=2000) 
