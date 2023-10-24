@@ -22,3 +22,11 @@
 > 인용문 작성
 
 ![이미지 이름](https://img.freepik.com/free-photo/man-stands-front-giant-angel-s-wings_1340-43229.jpg?w=2000) 
+
+```python
+for i in range(10):
+    print(i)
+
+```
+
+이런 코드는 `break`로 빠져 나오는 거야.
